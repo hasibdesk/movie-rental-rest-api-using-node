@@ -1,0 +1,22 @@
+{
+  "name": "vidly-app",
+  "version": "1.0.0",
+  "description": "Vidly- A movie rental app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasib",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.0.1",
+    "express": "^4.16.4",
+    "fawn": "^2.1.5",
+    "joi": "^14.3.1",
+    "joi-objectid": "^2.0.0",
+    "jsonwebtoken": "^8.5.0",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.14"
+  }
+}
